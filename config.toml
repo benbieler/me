@@ -2,3 +2,21 @@ baseURL = "https://benbieler.com/"
 languageCode = "en-us"
 title = "benbieler.com"
 theme = "mainroad"
+
+[Author]
+    name = "Ben Bieler"
+    bio = "Ben Bieler is currently the Co-Founder and CTO of the gaming platform chipstv.co"
+    avatar = "img/avatar.png"
+
+[Params.sidebar]
+    home = "right"
+    widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets]
+    recent_num = 10 
+    tags_counter = false
+
+[Params.widgets.social]
+    twitter = "benbieler"
+    github = "benbieler"
+    email = "ben.bieler@chipstv.co"
