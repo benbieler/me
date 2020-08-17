@@ -1,7 +1,7 @@
 baseURL = "https://benbieler.com/"
 languageCode = "en-us"
 title = "benbieler.com"
-theme = "mainroad"
+theme = "paper"
 
 [Author]
     name = "Ben Bieler"
