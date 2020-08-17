@@ -1,6 +1,6 @@
-baseURL = "https://benbieler.com/"
+baseURL = "https://benbieler.dev/"
 languageCode = "en-us"
-title = "benbieler.com"
+title = "benbieler.dev"
 theme = "paper"
 
 [Author]
